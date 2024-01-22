@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack Developer based in the UK. I have a background as a UX designer<br>and am passionate about problem-solving. For me, the magic is in the making. Aside from making 1's and 0's dance, I have a passion for cooking and other creative hobbies.
+A Full Stack Developer based in the UK. I have a background as a UX designer and am passionate about problem-solving. For me, the magic is in the making. Aside from making 1's and 0's dance, I have a passion for cooking and other creative hobbies.
 
 
 ## 🌐 Socials:
